@@ -1,2 +1,6 @@
-# [Telnet](https://github.com/polinakhari/telnet)
-# 
+# [telnet](https://github.com/polinakhari/telnet)
+# [vkBot](https://github.com/polinakhari/bot)
+# [dialogFlowBot](https://github.com/polinakhari/dialogFlowBot)
+# [SCORM](https://github.com/polinakhari/SCORM)
+
+
